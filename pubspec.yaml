@@ -1,7 +1,7 @@
-name: circular_menu
-description:  A simple animated circular menu for Flutter, Adjustable radius, colors, alignment, animation curve and animation duration.
+name: CarSecurity
+description:  
 version: 2.0.1
-author: Hasan Mohammed <hasanmohammed.hm1@gmail.com>
+author: Samuel Toribio
 homepage: https://github.com/hasan-hm1/circular_menu
 
 environment:
@@ -11,10 +11,16 @@ dependencies:
   flutter:
     sdk: flutter
 
+  cupertino_icons: ^1.0.2  
+  shared_preferences: 
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  animated_radial_menu:
+  image_picker: ^0.8.4+4
+  path_provider: ^2.0.2
 
 
 flutter:
-
+    uses-material-design: true

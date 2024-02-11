@@ -1,4 +1,4 @@
-name: circular_menu_example
+name: CarFounded
 version: 0.1.0
 
 environment:
@@ -10,8 +10,15 @@ dependencies:
 
   cupertino_icons: ^0.1.2
   circular_menu: ^2.0.0
+  shared_preferences: ^2.1.1
+  url_launcher: ^6.0.12
   
 
 # The following section is specific to Flutter.
 flutter:
   uses-material-design: true
+
+
+
+assets:
+  - assets/
