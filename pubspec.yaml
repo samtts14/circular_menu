@@ -2,7 +2,7 @@ name: CarSecurity
 description:  
 version: 2.0.1
 author: Samuel Toribio
-homepage: https://github.com/hasan-hm1/circular_menu
+homepage: https://github.com/samtts14/CarSecure.git
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
